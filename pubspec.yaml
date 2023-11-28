@@ -1,0 +1,24 @@
+name: my_camera
+description: A new Flutter project.
+version: 0.0.1
+homepage: amirdeveloper.top
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  camera: ^0.10.5+5
+  flutter_svg: ^2.0.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
